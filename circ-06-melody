@@ -8,6 +8,8 @@
  * The calculation of the tones is made following the mathematical
  * operation:
  *
+ *
+ *      I don't understand these lines... can you help this make sense to me?
  *       timeHigh = period / 2 = 1 / (2 * toneFrequency)
  *
  * where the different tones are described as in the table:
@@ -24,6 +26,8 @@
  *
  * http://www.arduino.cc/en/Tutorial/Melody
  */
+ 
+ 
   
 int speakerPin = 9;
 
